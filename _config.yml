@@ -80,9 +80,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 한국방송통신대학교
-        caption: 2019 - 2021 (졸업)
-        sub_title: 컴퓨터과학과
+        title: T아카데미 ASAC 웹풀스택 개발자 양성과정
+        caption: 2022.09 - 2023.03
+        sub_title: 대한상공회의소
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -91,9 +91,9 @@ content:
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
       - layout: left
-        title: 한국방송통신대학교
-        caption: 2019 - 2021 (졸업)
-        sub_title: 컴퓨터과학과
+        title: 프로젝트 기반의 Spring Cloud 개발자 양성
+        caption: 2021.07 - 2022.01
+        sub_title: KOSTA
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -102,9 +102,9 @@ content:
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
       - layout: left
-        title: 한국방송통신대학교
-        caption: 2019 - 2021 (졸업)
-        sub_title: 컴퓨터과학과
+        title: 정보시스템보안엔지니어양성
+        caption: 2020.05 - 2020.07
+        sub_title: 대한상공회의소
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -113,9 +113,9 @@ content:
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
       - layout: left
-        title: 한국방송통신대학교
-        caption: 2019 - 2021 (졸업)
-        sub_title: 컴퓨터과학과
+        title: 정보보안전문가양성
+        caption: 2017.06 - 2018.02
+        sub_title: 대우직업능력개발원
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
